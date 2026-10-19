@@ -12,8 +12,8 @@ permissions are checked on the server per team and role, every change is recorde
 Prerequisite: Docker Desktop (or Docker Engine + Compose v2).
 
 ```bash
-git clone https://github.com/TejasxCoder/newtonite-ops.git
-cd newtonite-ops
+git clone https://github.com/Tejasxkoder/operations-under-pressure.git
+cd operations-under-pressure
 docker compose up --build
 ```
 
